@@ -1,13 +1,13 @@
 {
   "categories": [
     {
-      "name": "Networking",
+      "name": "Media",
       "items": [
         {
-          "name": "pfSense",
-          "displayURL": "example.com",
-          "url": "https://example.com",
-          "icon": "security"
+          "name": "HackerNews",
+          "displayURL": "news.ycombinator.com/front",
+          "url": "https://news.ycombinator.com/front",
+          "icon": "Newspaper"
         },
         {
           "name": "Pihole",
