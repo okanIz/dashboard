@@ -5,15 +5,21 @@
       "items": [
         {
           "name": "HackerNews",
-          "displayURL": "news.ycombinator.com/front",
+          "displayURL": "heise.de",
           "url": "https://news.ycombinator.com/front",
-          "icon": "Newspaper"
+          "icon": "feed"
         },
         {
-          "name": "Pihole",
-          "displayURL": "example.com",
-          "url": "https://example.com",
-          "icon": "vpn_lock"
+          "name": "Golem",
+          "displayURL": "golem.de",
+          "url": "https://www.golem.de/",
+          "icon": "feed"
+        },
+        {
+          "name": "heise online",
+          "displayURL": "heise.de",
+          "url": "https://www.heise.de/",
+          "icon": "feed"
         }
       ]
     },
